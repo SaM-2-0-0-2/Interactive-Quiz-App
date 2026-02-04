@@ -1,12 +1,7 @@
 # 🧠 Tech Quiz Website
 
-A modern, responsive **Tech Quiz Web Application** built using **HTML, CSS, and JavaScript**.  
+A simple and responsive **Tech Quiz Web Application** built using **HTML, CSS, and JavaScript**.  
 The application features a **15-minute countdown timer**, **auto-submission on timeout**, animated UI, and a dynamic scoring system.
-
-## 📸 Screenshots
-> *(Optional – add screenshots of Home, Quiz, and Result pages)*
-
----
 
 ## ✨ Features
 
